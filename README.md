@@ -1,7 +1,3 @@
-### Hi there 👋
-
-![Shubham Khandale.](neural-pathways.jpg)
-
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)](https://www.linkedin.com/in/shubham-khandale-4a4145155/)
 📚 Data Science and Data Engineering Student
 
